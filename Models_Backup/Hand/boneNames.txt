@@ -1,0 +1,17 @@
+handbone
+indexlower
+indexmiddle
+indextop
+middlelower
+middlemiddle
+middletop
+pinkylower
+pinkymiddle
+pinkytop
+ringlower
+ringmiddle
+ringtop
+thumblower
+thumbmiddle
+thumbtop
+wrist
